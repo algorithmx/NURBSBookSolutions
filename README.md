@@ -1,5 +1,4 @@
 Solution to the NURBS Book (2nd Edition)
-
 ===
 
 ### Code of Conduct
